@@ -13,7 +13,7 @@ This repository consolidates **cheat sheets, labs, practice projects, and final 
 - [Cumulative Cheat Sheet](#cumulative-cheat-sheet)
 - [Practice Project: Weather ETL](#practice-project-weather-etl)
 - [Final Project: Automated Backup Script](#final-project-automated-backup-script)
-- [Self-Assessment Tools](#self-assessment-tools)
+
 
 ---
 
